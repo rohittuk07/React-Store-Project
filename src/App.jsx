@@ -33,7 +33,7 @@ function App() {
          element:<Checkout/>
         },
         {
-          path:'singleproduct',
+          path:'products/:id',
           element:<SingleProduct/>
         }
       ]
