@@ -31,7 +31,7 @@ const Navbar = () => {
         </div>
         <div className='navbar-end'>
             <NavLink to='cart' className='btn btn-ghost btn-circle btn-md ml-14'>
-                <div className='indicator mr-96'>
+                <div className='indicator'>
                     <BsCart3 className='h-6 w-6' />
                     <span className='badge badge-sm badge-primary indicator-item'>8</span>
                 </div>
