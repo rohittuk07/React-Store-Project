@@ -1,7 +1,9 @@
+import Hero from "../Components/Hero";
 
 const Landing = () => {
     return(
       <>
+      <Hero/>
       </>
     )
   };
